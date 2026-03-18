@@ -5,3 +5,5 @@ datasets>=2.14
 huggingface_hub>=0.20
 rank-bm25
 tqdm
+torch
+transformers>=4.40
